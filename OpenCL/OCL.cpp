@@ -251,4 +251,5 @@ bool OCL::Run()
 	delete[] a;
 	delete[] b;
 	delete[] c_done;
+	return true;
 }
