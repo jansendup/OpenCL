@@ -38,4 +38,7 @@
     <Library Include="..\..\..\..\Libraries\OpenCL\lib\Win32\glew32.lib" />
     <Library Include="..\..\..\..\Libraries\OpenCL\lib\Win32\OpenCL.lib" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Test.cl" />
+  </ItemGroup>
 </Project>
